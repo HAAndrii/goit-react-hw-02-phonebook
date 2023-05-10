@@ -1,0 +1,15 @@
+.list {
+  padding: 15px;
+}
+
+.item {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  /* display: block; */
+}
